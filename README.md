@@ -1,7 +1,7 @@
 # passwordgenerator
 
 
- 👋 Hi, I’m @jamircse
+ 👋 Hi, I’m Jamir Hossain
 
  👀 I’m interested in ...
 
