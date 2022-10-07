@@ -7,7 +7,7 @@ const passwordlength=12;
 // Password Generator Function
 function genPassword(){
     var pass=" "
-    chars="0123456789abcdefghijklmnopqrstwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@$&";
+    const chars="0123456789abcdefghijklmnopqrstwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@$&";
     
     for (let index = 0; index <passwordlength; index++) {
         var randomNumber = Math.floor(Math.random()*chars.length);
